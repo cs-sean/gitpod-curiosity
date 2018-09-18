@@ -1,0 +1,23 @@
+{
+  "name": "gitpod-curiosity",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "serve": "node ./node_modules/.bin/http-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://x-access-token:685412e08cdf2f04ea2d265789eeecc3280193f2@github.com/cs-sean/gitpod-curiosity.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cs-sean/gitpod-curiosity/issues"
+  },
+  "homepage": "https://github.com/cs-sean/gitpod-curiosity#readme",
+  "devDependencies": {
+    "http-server": "^0.11.1"
+  }
+}
